@@ -2,9 +2,6 @@
 
 (require define-assets-from)
 
-; I had to provide these out here for it to work
-;(provide (all-from-out "stones.rkt"))
-
 (also-for-asset-docs
  #:asset-modules ("pokemons.rkt"
                   "trainers.rkt"
@@ -20,6 +17,6 @@
           "stones.rkt"
           "items.rkt"))
 
-;pikachu-sheet
-;sunstone-img
+pikachu-sheet
+sunstone-img
 
