@@ -20,3 +20,6 @@
           "stones.rkt"
           "items.rkt"))
 
+pikachu-sheet
+sunstone-img
+
