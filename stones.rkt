@@ -6,4 +6,4 @@
 (define-assets-from "assets/stones"
                     (for-all-assets credits))
 
-sunstone-img
+;sunstone-img

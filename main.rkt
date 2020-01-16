@@ -3,18 +3,18 @@
 (require define-assets-from)
 
 (also-for-asset-docs
- #:asset-modules ("pokemons.rkt"
+ #:asset-modules ("stones.rkt"
+                  "pokemons.rkt"
                   "trainers.rkt"
-                  "stones.rkt"
                   "items.rkt")
- (provide (all-from-out "pokemons.rkt"
+ (provide (all-from-out "stones.rkt"
+                        "pokemons.rkt"
                         "trainers.rkt"
-                        "stones.rkt"
                         "items.rkt"))
 
- (require "pokemons.rkt"
+ (require "stones.rkt"
+          "pokemons.rkt"
           "trainers.rkt"
-          "stones.rkt"
           "items.rkt"))
 
 pikachu-sheet
