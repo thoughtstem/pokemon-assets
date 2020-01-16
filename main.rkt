@@ -16,7 +16,3 @@
           "pokemons.rkt"
           "trainers.rkt"
           "items.rkt"))
-
-;pikachu-sheet
-;sunstone-img
-
